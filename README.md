@@ -2,18 +2,20 @@
 
 AI product engineer. I take an agent idea from an empty repo to a live thing you can click —
 owning the product call, the UX, and the proof it works.
-USC Marshall + Viterbi '24 (business + engineering). Building solo, shipping constantly.
+USC Business + AI '24. Building solo, shipping constantly.
 
-### Currently building
-- **AI Career Coach** — reads your *whole* resume and turns it into targeted job strategy,
-  every answer tied to your own words → https://marlowcoach.vercel.app
-- **Pacioli** — "Did your AI actually do what it said?" Checks an agent's claims against the
-  evidence and prints a receipt you can trust → https://pacioliapp.vercel.app
+### Start here
+- **Farthing** — an AI support agent allowed to touch money: the model can't set the amount,
+  a policy engine decides it, a human approves, and the Stripe refund can never execute twice
+  → https://github.com/theo-ai-lab/farthing
+- **Toffoli** — an undo layer for AI agents: flags which actions are reversible, compensable,
+  or permanent, and escalates the rest to a human → https://theo-ai-lab.github.io/toffoli/
 
 ### Selected work — all solo, all shipped
 | Product | What you get | Try it |
 |---|---|---|
-| **AI Career Coach** | Resume-grounded coaching, no signup | [live](https://marlowcoach.vercel.app) |
+| **Farthing** | A Stripe refund agent where the model can't set the amount — policy decides, a human approves, and no refund can execute twice or without approval (Stripe test mode) | [repo](https://github.com/theo-ai-lab/farthing) |
+| **AI Career Coach** | Resume-grounded coaching, no signup | [live](https://ai-career-coach-hazel.vercel.app) |
 | **Pacioli** | Checks what your agent *claimed* against the evidence, prints a receipt | [live](https://pacioliapp.vercel.app) |
 | **Toffoli** | An undo button for AI agents — flags which actions are safely reversible | [demo](https://theo-ai-lab.github.io/toffoli/) |
 | **Maudslay** | Go / no-go before you ship a computer-use agent | [repo](https://github.com/theo-ai-lab/maudslay) |
