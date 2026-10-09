@@ -25,7 +25,3 @@ USC Business + AI '24. Building solo, shipping constantly.
 ### How I work
 I ship fast and I prove it — each product ships with a real eval, red-team, or reconciliation,
 so the quality claim is falsifiable, not vibes. The AI proposes; the code disposes.
-
-### Reach me
-Open to AI product engineer / builder roles — the fastest way to see what I do is to click a
-live demo above.
