@@ -2,7 +2,7 @@
 
 AI product engineer. I take an agent idea from an empty repo to a live thing you can click —
 owning the product call, the UX, and the proof it works.
-USC Business + AI '24. Building solo, shipping constantly.
+USC Business + AI '24. Building and shipping AI products.
 
 ### Start here
 - **Farthing** — an AI support agent allowed to touch money: the model can't set the amount,
@@ -11,7 +11,7 @@ USC Business + AI '24. Building solo, shipping constantly.
 - **Toffoli** — an undo layer for AI agents: flags which actions are reversible, compensable,
   or permanent, and escalates the rest to a human → https://theo-ai-lab.github.io/toffoli/
 
-### Selected work — all solo, all shipped
+### Selected work
 | Product | What you get | Try it |
 |---|---|---|
 | **Farthing** | A Stripe refund agent where the model can't set the amount — policy decides, a human approves, and no refund can execute twice or without approval (Stripe test mode) | [repo](https://github.com/theo-ai-lab/farthing) |
